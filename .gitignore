@@ -1,4 +1,6 @@
-﻿
+
 *.exr
 
 *.blend1
+
+*.bphys
